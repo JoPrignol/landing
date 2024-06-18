@@ -1,0 +1,30 @@
+.hero{
+  height: 500px;
+  margin-top: -30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-container{
+width: 50%;
+}
+
+.hero h1{
+  color: #FFFFFF;
+  width: 100%;
+}
+
+.hero p{
+  color: #FFFFFF;
+  margin-bottom: 40px;
+}
+
+#logo{
+  font-family: "Playwrite SK", cursive;
+  color: #EDF67D;
+  font-size: 1.2em;
+  font-weight: bolder;
+}
